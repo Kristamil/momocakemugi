@@ -1,0 +1,68 @@
+*{
+    margin:0%;
+}
+body{
+    background:linear-gradient(60deg,rgb(228, 23, 142),rgb(78, 218, 13));
+}
+#Header
+{
+    background-color: black;
+    height: 70px;
+}
+#Brand{
+    width: 40%;
+    float: left;
+    color: cornsilk;
+    text-align: center;
+    line-height: 70px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+a{
+    color: cornsilk;
+    text-decoration: none;
+    margin-right: 25px;
+}
+#Menu
+{
+text-align: center;
+float: right;
+width: 60%;
+line-height: 70px;
+}
+#title{
+    text-align: center;
+    margin-top: 50px;
+}
+#pizza{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#dp{
+    background: linear-gradient(45deg,blue,red);
+    width: 60%;
+    color: cornsilk;
+    padding: 20px;
+    border-radius: 50%;
+    margin:10px auto;
+}
+table{
+    width: 100%;
+    margin-top: 15px;
+}
+img{
+    border-radius: 20px;
+    box-shadow: 0 0 10px blue;
+}
+#kid{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#Footer{
+    text-align: center;
+    background: black;
+    color: cornsilk;
+    margin-top: 30px;
+    padding: 20px;
+}
